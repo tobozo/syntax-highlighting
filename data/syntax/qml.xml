@@ -122,6 +122,7 @@
         <WordDetect attribute="Signal" context="Signal" String="signal" />
         <WordDetect attribute="Keywords" context="Property" String="default property" />
         <WordDetect attribute="Keywords" context="Property" String="property" />
+        <WordDetect attribute="Keywords" context="Property" String="required property" />
         <DetectChar attribute="String" context="String" char="&quot;" />
         <DetectChar attribute="Normal Text" context="Object" char="{" beginRegion="Brace" />
         <!-- Normal##JavaScript -->
